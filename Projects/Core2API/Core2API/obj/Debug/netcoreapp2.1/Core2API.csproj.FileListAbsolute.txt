@@ -1,0 +1,14 @@
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\bin\Debug\netcoreapp2.1\Core2API.deps.json
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\bin\Debug\netcoreapp2.1\Core2API.runtimeconfig.json
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\bin\Debug\netcoreapp2.1\Core2API.runtimeconfig.dev.json
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\bin\Debug\netcoreapp2.1\Core2API.dll
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\obj\Debug\netcoreapp2.1\Core2API.csprojAssemblyReference.cache
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\obj\Debug\netcoreapp2.1\Core2API.csproj.CoreCompileInputs.cache
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\obj\Debug\netcoreapp2.1\Core2API.RazorAssemblyInfo.cache
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\obj\Debug\netcoreapp2.1\Core2API.RazorAssemblyInfo.cs
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\obj\Debug\netcoreapp2.1\Core2API.AssemblyInfoInputs.cache
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\obj\Debug\netcoreapp2.1\Core2API.AssemblyInfo.cs
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\obj\Debug\netcoreapp2.1\Core2API.RazorTargetAssemblyInfo.cache
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\bin\Debug\netcoreapp2.1\Core2API.pdb
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\obj\Debug\netcoreapp2.1\Core2API.dll
+D:\Study\CS\Csharp\Projects\Core2API\Core2API\obj\Debug\netcoreapp2.1\Core2API.pdb
