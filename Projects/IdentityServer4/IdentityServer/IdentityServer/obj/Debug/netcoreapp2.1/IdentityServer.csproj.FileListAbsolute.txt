@@ -1,0 +1,14 @@
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.deps.json
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.json
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.runtimeconfig.dev.json
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.dll
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\bin\Debug\netcoreapp2.1\IdentityServer.pdb
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csprojAssemblyReference.cache
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.csproj.CoreCompileInputs.cache
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cache
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorAssemblyInfo.cs
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfoInputs.cache
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.AssemblyInfo.cs
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.RazorTargetAssemblyInfo.cache
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.dll
+D:\Study\CS\Csharp\Projects\IdentityServer4\IdentityServer\IdentityServer\obj\Debug\netcoreapp2.1\IdentityServer.pdb
