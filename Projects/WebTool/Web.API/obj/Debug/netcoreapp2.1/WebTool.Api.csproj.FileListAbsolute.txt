@@ -1,0 +1,14 @@
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\bin\Debug\netcoreapp2.1\WebTool.Api.deps.json
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\bin\Debug\netcoreapp2.1\WebTool.Api.runtimeconfig.json
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\bin\Debug\netcoreapp2.1\WebTool.Api.runtimeconfig.dev.json
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\bin\Debug\netcoreapp2.1\WebTool.Api.dll
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\bin\Debug\netcoreapp2.1\WebTool.Api.pdb
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\obj\Debug\netcoreapp2.1\WebTool.Api.csprojAssemblyReference.cache
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\obj\Debug\netcoreapp2.1\WebTool.Api.csproj.CoreCompileInputs.cache
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\obj\Debug\netcoreapp2.1\WebTool.Api.RazorAssemblyInfo.cache
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\obj\Debug\netcoreapp2.1\WebTool.Api.RazorAssemblyInfo.cs
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\obj\Debug\netcoreapp2.1\WebTool.Api.AssemblyInfoInputs.cache
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\obj\Debug\netcoreapp2.1\WebTool.Api.AssemblyInfo.cs
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\obj\Debug\netcoreapp2.1\WebTool.Api.RazorTargetAssemblyInfo.cache
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\obj\Debug\netcoreapp2.1\WebTool.Api.dll
+D:\GitHub\DotNetBucket\Projects\WebTool\Web.API\obj\Debug\netcoreapp2.1\WebTool.Api.pdb

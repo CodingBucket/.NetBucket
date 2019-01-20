@@ -1,0 +1,137 @@
+
+https://www.c-sharpcorner.com/article/crud-operation-in-angular-7-using-web-api/
+
+https://github.com/CodAffection/Asp.Net-Core-Web-API-and-Angular-7-CRUD
+
+=> Repository
+
+https://www.c-sharpcorner.com/UploadFile/3d39b4/crud-operations-using-the-generic-repository-pattern-and-uni/
+
+=> Clean Architecture Rules:
+
+https://fullstackmark.com/post/18/building-aspnet-core-web-apis-with-clean-architecture
+https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures
+
+https://github.com/ardalis/CleanArchitecture
+https://github.com/JasonGT/NorthwindTraders
+https://github.com/dotnet-architecture/eShopOnContainers
+https://github.com/EASV/CSharpCleanRestAPI2018
+
+DESKTOP-F1B61FF\SQLEXPRESS
+
+- The application core contains the Domain Model
+- All projects depend on the core project, dependencies point inward toward this core.
+- Inner project define interfaces, outer projects implement them.
+- Avoid direct dependency on infrastructure project.
+
+- Domain contains enterprise-wide types and logic
+- Application contains application-specific types and logic
+- Infrastructure (including persistnce) contain all external concerns.
+- Presentation and infrastructure depends only on Application
+- Infrasture and presentation components can be replaced with minimal effort.
+- No layer depends on infrastructure layer.
+- Controller should not contain any application logic.
+
+Core.Domain
+- Entities
+- Value Object
+- Enumerations
+- Logic
+- Exceptions
+
+Core.Application
+- Interfaces
+- Models
+- Logic
+- Commands/Querys
+- Validators
+- Exceptions
+- ViewModel
+
+Infrastructure
+- File system
+- Email/SMS
+- System clock
+- Anything external
+
+Persistence
+- DbContext
+- Migrations
+- Configurations
+- Seeding
+- Abstractions
+
+Api
+
+Presentation
+- Client application
+
+---------------
+NorthWind
+Docs
+Src
+    Common
+        Common
+    Core
+        Application (Domain, Persistence)
+        Domain
+    Infrastructure
+        Infrastructure (Application, Common)
+        Persistence (Domain)
+    Presentation
+        API (Application, Infrastructure, Common)
+        ClientApp
+Tests
+
+--------------------
+
+API (Core, Infrastructure)
+Infrastructure (Core)
+Core 
+
+----------------------
+
+MSDN Clean Architecture
+
+Core
+    Entities
+    Interfaces
+    Services
+    DTOs
+
+Infrastructure
+    EF Core types (DbContest, Migrations)
+    Data access implementation types (Repositories)
+    Infrastructure-specific services (for example, FileLogger or SmtpNotifier)
+
+UI layer types
+    Controller
+    Filters
+    Views
+    ViewModel
+    Startup
+
+------------------------------------------------
+
+=> Migration
+
+https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/new-db?tabs=visual-studio
+
+CMD: Add-Migration InitialCreate
+CMD: Update-Database
+    
+------------------------------------------------
+
+- Create user
+- Login user
+- Validation
+- Swagger
+- Authentication
+- Authorization
+- JWT
+- Exception handle
+- Filter/Middelwire
+- Global error handling
+
+- File upload
+- Routing

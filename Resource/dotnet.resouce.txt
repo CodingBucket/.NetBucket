@@ -1,0 +1,214 @@
+
+=====================================================
+   C#
+=====================================================
+https://www.csharpstar.com/
+https://docs.microsoft.com/en-us/dotnet/index
+https://www.tutorialspoint.com/csharp/index.htm
+https://www.javatpoint.com/c-sharp-tutorial
+=> http://www.tutorialsteacher.com/csharp/csharp-tutorials
+
+https://www.youtube.com/watch?v=MhdxhUgSpFw&list=PLWPirh4EWFpFYePpf3E3AI8LT4NInNoIM
+
+- C# Advanced Topics by mosh - 3h - s
+https://www.youtube.com/watch?v=zMjp78v9JxA
+
+=> C# Fundamentals for Absolute Beginners - coderschool - 8h - S
+https://www.youtube.com/watch?v=nRjHGKaJY8M 
+
+=> C# Basics for Beginners Series - AvetisG Programming - 51 - S
+https://www.youtube.com/watch?v=cQZG0XwCsMc&list=PLylgIRlJtHWT6iB_c_s umeqIEYJ5GWZqd
+
+=> C#.NET Tutorials - Programming with Mosh - 11 - S
+https://www.youtube.com/watch?v=gfkTfcpWqAY&list=PLTjRvDozrdlz3_FPXwb6lX_HoGXa09Yef
+
+=> C# tutorial - Fox Learn - 294
+https://www.youtube.com/watch?v=yqyXrDp6Id0&list=PL-EU0JUF-XD1saII7gONUxMIbk13XkmCV
+
+ => C# tutorial for beginners - kudvenkat - 102
+ https://www.youtube.com/watch?v=SXmVym6L8dw&list=PLAC325451207E3105
+
+ => Advanced C# - Advenced C - 7 
+ https://www.youtube.com/watch?v=sklta_FOygc&list=PL6tEaVUU83w26pTtUyY14my2Xrw2CtW2Q
+
+=====================================================
+ # ASP.NET Core
+=====================================================
+https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.1
+https://nbarbettini.gitbooks.io/little-asp-net-core-book/content/
+
+=> .NET Core2 API - coderschool - 1h - S
+https://www.youtube.com/watch?v=aIkpVzqLuhA
+
+=> ASP.NET Core beginner - coderschool - 2.4h - S1
+https://www.youtube.com/watch?v=xc3Gl4rnWV4
+
+=> ASP.NET Core intermediate - coderschool - 4h - S
+https://www.youtube.com/watch?v=O5tBP7tKen8
+
+=> ASP.NET Core advance - coderschool - 1.44h - S
+https://www.youtube.com/watch?v=EoblsL3vs90
+
+=> ASP.NET Core1 - Programming - 56
+https://www.youtube.com/watch?v=-7iVCWMP13M&list=PLYMOUCVo86jGwWoSoEkpgnCJ3IPXIQmIC
+
+=> Developing Enterprise Apps with ASP .NET Core 2.1 - 1.20h
+https://www.youtube.com/watch?v=fAJrVf8f6M4
+
+=> Building SPA with ASP.NET Core 2 | Jason Taylor - 41m - S
+https://www.youtube.com/watch?v=bAuXixEX6_w
+
+=====================================================
+ # .NET Basic & Architecture
+=====================================================
+=> Dependency Injection - MVS - 45m - S
+https://www.youtube.com/watch?v=QtDTfn8YxXg
+
+=> Solving first world problems with .NET Core and SignalR
+https://www.youtube.com/watch?v=dcqpB_sWbKk
+
+=====================================================
+ # SignalR
+=====================================================
+=> SignalR .NET Core: - MVS - 1h
+https://www.youtube.com/watch?v=1TrttIkbs6c
+
+=> Consuming SignalR - Ajden Towfeek - 20m - S
+https://www.youtube.com/watch?v=R3UJjSAH6bM
+
+=====================================================
+ # IdentityServer
+=====================================================
+http://docs.identityserver.io/en/dev/quickstarts/0_overview.html
+https://github.com/IdentityServer/IdentityServer4.Samples/tree/release/Quickstarts
+
+=> IdentityServer for ASP.NET Core - coderschool - 2h
+https://www.youtube.com/watch?v=J5p72gTdx_M
+
+=> Identity Server 4 - Thumb IKR - Programming Examples - 17m
+https://www.youtube.com/watch?v=h4CQpdQ7L_I
+
+=> IdentityServer4 T - sunil ravulapalli - 7
+https://www.youtube.com/watch?v=wQaOWc_bwpM&list=PLhh7nkhrgGLBkOddzpaNFQHAZsfnlqTXg
+
+=> Identityserver4 T - NDC Conferences - 10
+https://www.youtube.com/watch?v=X6a9bjNutEw&list=PLBpdDIHvafa-2WHiwRa-Q0YGrN34PEPEs
+
+=> Introduction to IdentityServer for ASP.NET Core - coderschool - 2.11h
+https://www.youtube.com/watch?v=J5p72gTdx_M
+
+=> OAuth 2.0 and OpenID Connect - Okta for Developers - 1.2h
+https://www.youtube.com/watch?v=996OiexHze0
+
+=====================================================
+ # SOLID
+=====================================================
+https://www.codeproject.com/Tips/1033646/SOLID-Principle-with-Csharp-Example
+https://www.codeproject.com/Articles/703634/SOLID-architecture-principles-using-simple-Csharp
+
+=> SOLID + DP - MVS - 57m - S
+https://www.youtube.com/watch?v=agkWYPUcLpg
+
+=> Solid Design Principles - kudvenkat - 6 - S1P
+https://www.youtube.com/watch?v=HLFbeC78YlU&list=PL6n9fhu94yhXjG1w2blMXUzyDrZ_eyOme
+
+=> SOLID Principles - craigctp - 5 - S
+https://www.youtube.com/watch?v=nyxaChZ1row&list=PL4CE9F710017EA77A
+
+=====================================================
+ # Design Patterns
+=====================================================
+
+=> Design Patterns: Singleton - MVS - 16m - SP
+https://www.youtube.com/watch?v=sbML3xFHRbI
+
+=> Design Patterns: Factories - MVS - 25m
+https://www.youtube.com/watch?v=JEk7B_GUErc
+
+=> Design Patterns: Decorator - MVS - 17m
+https://www.youtube.com/watch?v=6PPMR0GWrZQ
+
+=> Design Patterns: Observer and Publish-Subscribe - MVS - 18m
+https://www.youtube.com/watch?v=72bdaDl4KLM
+
+=> Design Patterns: Command/Memento - MVS - 31m
+https://www.youtube.com/watch?v=zRbHlDeon3E
+
+=> Design Patterns: Strategy - MVS - 13m
+https://www.youtube.com/watch?v=QZIvlny1Onk
+
+=> Design Patterns: Adapter and Façade - MVS - 22m
+https://www.youtube.com/watch?v=XYa0rmRMZ1Q
+
+=> Design Patterns: Template Method - MVS - 14m
+https://www.youtube.com/watch?v=MfAvs0n9uMs
+
+=> Design Patterns tutorial for beginners - kudvenkat - 21
+https://www.youtube.com/watch?v=rI4kdGLaUiQ&list=PL6n9fhu94yhUbctIoxoVTrklN3LMwTCmd
+
+=> Popular Software design pattern & C# videos - 194
+https://www.youtube.com/watch?v=YDobmucohqk&list=PLaCTP9-enG5ZxUZqyHq1-SGgi2wJIRi2v
+
+=====================================================
+ # Entity Framework
+=====================================================
+ => Entity Framework Tutorials - Programming with Mosh - 2
+ https://www.youtube.com/watch?v=rtXpYpZdOzM&list=PLTjRvDozrdlyZf7wM83SZT-xz9giQlcwJ
+
+ => Entity Framework (Bangla) - Foyzul Karim - 13
+ https://www.youtube.com/watch?v=Sa6glbT8lTw&list=PLEYpvDF6qy8ZEhmbi7m81b-SWwwe0MeQ6
+
+ => Entity Framework Core2 - Microsoft Visual Studio
+ https://www.youtube.com/watch?v=VYa7EdMnP4E
+
+ => Entity Framework Core2 - Tutorials Team - 6
+ https://www.youtube.com/watch?v=puwWeXxQSmk&list=PLZmfj7vJb0aGGGjhVpAZ-IkbguYoNGqlk
+
+ => Entity Framework tutorial - kudvenkat - 25
+ https://www.youtube.com/watch?v=Z7713GBhi4k&list=PL6n9fhu94yhUPBSX-E2aJCnCR3-_6zBZx
+
+ => Top 10 Entity Framework Features - MVS - 56m
+ https://www.youtube.com/watch?v=4kgILKQuGjk
+
+ => What's New in Entity Framework Core 2.0 - MVS - 53m
+ https://www.youtube.com/watch?v=0pUVC3trvHc
+
+=====================================================
+ # Unit Test
+=====================================================
+=> Unit Testing Tutorial for C# Developers - Mosh - 44m
+https://www.youtube.com/watch?v=HYrXogLj7vg
+
+=> TDD basic with C# - Jeremy Clack - 23m
+https://www.youtube.com/watch?v=l4xhTq4qmC0
+
+=> Mordern Dev Practices Unit Testing high - MVS - 1.4m
+https://www.youtube.com/watch?v=4averylLdjQ
+
+=====================================================
+ # Clean Code
+=====================================================
+=> Clean Code: Learn to write clean - Programming with Mosh - 34m - S
+https://www.youtube.com/watch?v=5koPpYVa020
+
+=====================================================
+ # MCP
+=====================================================
+https://mva.microsoft.com/en-us/training-courses/mastering-microsoft-certification-exam-prep-16601?l=6zyNZ06lC_4506218965
+
+=====================================================
+ # .NET Interview Preparation
+=====================================================
+ => C# interview questions and answers - kudvenkat - 14
+ https://www.youtube.com/watch?v=-1NUQNSVVmk&list=PL6n9fhu94yhWlAv3hnHzOaMSeggILsZFs
+
+
+# Clean Architecture:
+https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/
+https://www.c-sharpcorner.com/article/onion-architecture-in-asp-net-core-mvc/
+https://jeffreypalermo.com/2013/08/onion-architecture-part-4-after-four-years/
+https://docs.microsoft.com/en-us/dotnet/standard/guidance-architecture
+https://bitbucket.org/jeffreypalermo/onion-architecture
+https://github.com/dotnet-architecture
+https://github.com/dotnet-architecture/eShopOnWeb/tree/master/src
+https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/common-web-application-architectures
